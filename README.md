@@ -5,7 +5,7 @@
 > **适用环境**: macOS 虚拟机 + Clover EFI 五码注入 + Celery 任务调度
 
 ---
-
+电报：https://t.me/CartiernadMiller 频道：https://t.me/haiweishemei QQ 3782261706
 ## 目录
 
 1. [系统架构](#1-系统架构)
